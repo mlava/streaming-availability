@@ -8,7 +8,7 @@ Simply place your cursor in a block containing the name of the film, trigger thi
 - Option to check for multiple titles in one command - place cursor in the parent block for a list of films/series you want to stream. Then open Command Palette and use Get Streaming Availability (All Child blocks).
 - Fallback to IMDb search results modal if title search fails.
 
-![streaming-availability-multi](https://user-images.githubusercontent.com/6857790/192084818-1492971c-998b-4e19-a51d-9f3007114b9a.gif)
+![streaming-availability-multi](https://user-images.githubusercontent.com/6857790/192084925-b045213d-b2cb-4a26-9e79-16be83a4d264.gif)
 
 This extension will find the IMDb id for the film or series, then search for streaming services using the https://rapidapi.com/movie-of-the-night-movie-of-the-night-default/api/streaming-availability/ API.
 
